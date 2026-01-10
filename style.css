@@ -68,7 +68,7 @@ nav div .signUp{
   color: #170909 ;
 }
 .hero h2{
- color: white;
+ color: rgb(211, 5, 5);
 }
 .hero p {
   color: #170909;
@@ -105,12 +105,13 @@ nav div .signUp{
  top: 25px;
  border-width: 200px;
  width: 350px;
- left: 550px;
+ left: 510px;
  height: 570px;
  background: url(./images/imgi_133_purple-drink_RECIPE_V1_030525_0054_VOG_final.jpg);
  place-items: center;
  justify-content: center;
  align-items: center;
+ display: flex;
  
  line-height: 30px;
  border-radius: 20px;
